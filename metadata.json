@@ -1,0 +1,7 @@
+{
+  "name": "Minister Sam Academy",
+  "description": "Comprehensive School Management System (MSA) for administration, academic timetabling, attendance, student records, and examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
